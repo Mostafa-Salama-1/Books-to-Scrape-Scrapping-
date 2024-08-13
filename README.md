@@ -35,11 +35,11 @@ pip install -r requirements.txt
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Mostafa-Salama-1/Books_to_Scrape(Scrapping).git
+   git clone https://github.com/Mostafa-Salama-1/Books_to_Scrape-Scrapping-.git
    ```
 2. Navigate to the project directory.
    ```bash
-   cd Books_to_Scrape(Scrapping)
+   cd Books_to_Scrape-Scrapping-
    ```
 3. Open the Jupyter notebook.
    ```bash
